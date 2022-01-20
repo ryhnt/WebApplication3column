@@ -1,0 +1,114 @@
+﻿body {
+    font-family: 'Big Shoulders Display', cursive;
+    font-family: 'Lexend Deca', sans-serif;
+    display: flex;
+    font-size: 15px;
+    justify-content:center;
+    margin-top: 100px
+}
+.ana {
+    width:1200px;
+    height:600px;
+    padding: 50px 20px 50px 20px;
+
+    background-color: hsl(0, 0%, 95%)
+}
+.ana2{
+    display:flex;
+    margin-top:60px;
+    margin-left:130px;
+    
+}
+
+.col1 {
+    background-color: hsl(31, 77%, 52%);
+    width: 300px;
+    height: 500px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+   
+}
+.col2 {
+    background-color: hsl(184, 100%, 22%);
+    width: 300px;
+    height: 500px;
+   
+}
+.col3 {
+    background-color: hsl(179, 100%, 13%);
+    width: 300px;
+    height: 500px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+   
+}
+.yazi1 {
+    margin-top: 100px;
+    margin-left: 40px;
+    color: hsl(0, 0%, 95%);
+ 
+    font-family: 'Big Shoulders Display', cursive;
+    font-size:35px;
+}
+.yazi2 {
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right:40px;
+    color: hsl(0, 0%, 100%, 0.75);
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+}
+.but1 {
+    margin-top: 100px;
+    margin-left: 40px;
+    color: hsl(31, 77%, 52%);
+    width: 50%;
+    height: 10%;
+    border-radius: 30px;
+    border: 0;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+    background-color: hsl(0, 0%, 95%)
+}
+.but2 {
+    margin-top: 100px;
+    margin-left: 40px;
+    color: hsl(184, 100%, 22%);
+    width: 50%;
+    height: 10%;
+    border-radius: 30px;
+    border: 0;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+    background-color: hsl(0, 0%, 95%)
+}
+.but3 {
+    margin-top: 100px;
+    margin-left: 40px;
+    color: hsl(179, 100%, 13%);
+    width: 50%;
+    height: 10%;
+    border-radius: 30px;
+    border: 0;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+    background-color: hsl(0, 0%, 95%)
+}
+.but1:hover {
+    background-color: transparent;
+    color: hsl(0, 0%, 95%);
+    cursor: pointer;
+    border: 2px solid #F2F2F2;
+}
+.but2:hover {
+    background-color: transparent;
+    color: hsl(0, 0%, 95%);
+    cursor: pointer;
+    border: 2px solid #F2F2F2;
+}
+.but3:hover {
+    background-color: transparent;
+    color: hsl(0, 0%, 95%);
+    cursor: pointer;
+    border: 2px solid #F2F2F2;
+}
